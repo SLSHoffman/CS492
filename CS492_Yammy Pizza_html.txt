@@ -1,0 +1,105 @@
+
+
+<html>
+<h1>Yammy Pizza Menu</h1>
+     <p>Yammy Pizza choices:</p>
+</html>
+
+<insert picture of pizza>
+
+<img src="C:\Users\sonia\OneDrive\Desktop\CS492\istockphoto-1377372234-2048x2048.jpg" />
+(Marketan, n.d.)
+	
+
+<insert picture of pizza 2>
+
+<img src="C:\Users\sonia\OneDrive\Desktop\CS492\istockphoto-1413684626-2048x2048.jpg" />
+(Jenifoto, n.d.)
+
+<html>
+     <p><strong>A Pizza Thing</strong>
+     <p>Our pizzas are made to give you a once-in-a-lifetime pizza experience your tastebuds will crave.  Our pizza is second to none and is hand-crafted to fit your pizza needs.  Check out our menu to craft your pizza the way you want it.</p>
+</html>
+
+
+
+<html>
+<p><strong>Yammy Pizza Sizes</strong>
+<li>Personal</li>
+<li>Small</li>
+<li>Medium</li>
+<li>Large</li>
+<li>Extra Large</li>
+<li>Party size (feeds a party of 30)</li>
+</p>
+</html>
+
+
+<html>
+<p><strong>Yammy Pizza Crust Types</strong>
+<li>Thin</li>
+<li>Pan</li>
+<li>Extra Thick</li>
+</p>
+</html>
+
+<html>
+<p><strong>Yammy Pizza Meats</strong>
+<li>Pepperoni</li>
+<li>Sausage</li>
+<li>Canadian Bacon</li>
+<li>Ham</li>
+<li>Bacon</li>
+<li>Beef</li>
+<li>Anchovies</li>
+</p>
+</html>
+
+<html>
+<p><strong>Yammy Pizza Veggies</strong>
+<li>Bannana Peppers</li>
+<li>Black Olives</li>
+<li>Green Olives</li>
+<li>Bell Peppers</li>
+<li>Spinach</li>
+<li>Green Chilli</li>
+</p>
+</html>
+
+
+<html>
+<p><strong>Yammy Pizza Dairy</strong>
+<li>Feta Cheese<li>
+<li>Mozarella</li>
+</p>
+</html>
+
+
+<html>
+<p><strong>Yammy Pizza Sauces</strong>
+<li>Marinara</li>
+<li>Alfredo</li>
+<li>Meat Sauce</li>
+<li>Garlic Sauce</li>
+<li>Meat and Garlic Sauce</li>
+</p>
+</html>
+
+<html>
+<p><strong>Yammy Pizza Sauce Thickness</strong>
+<li>Light</li>
+<li>Normal</li>
+<li>Extra Sauce</li>
+</p>
+</html>
+
+
+References:
+
+
+Jenifoto. (n.d.). Classic pepperoni pizza with cut slices isolated on a white background. iStock. https://www.istockphoto.com/photo/classic-pepperoni-pizza-with-cut-slices-isolated-on-white-gm1413684626-462680689 
+
+
+Marketlan. (n.d.). Pizza with salami, Bell Pepper, tomatoes and cheese, pickles, bacon... iStock. https://www.istockphoto.com/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-gm1377372234-442566188 
+
+
